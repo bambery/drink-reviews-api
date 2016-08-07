@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  producer: MyString
+  year: 1
+  photo: MyString
+  wineType: MyString
+  price: 9.99
+  regionOrCity: MyString
+  stateOrProvince: MyString
+  country: MyString
+  ratingAvg: 9.99
+  ratingLauren: 1
+  ratingDean: 1
+
+two:
+  producer: MyString
+  year: 1
+  photo: MyString
+  wineType: MyString
+  price: 9.99
+  regionOrCity: MyString
+  stateOrProvince: MyString
+  country: MyString
+  ratingAvg: 9.99
+  ratingLauren: 1
+  ratingDean: 1
